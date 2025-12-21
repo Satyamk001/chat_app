@@ -1,5 +1,5 @@
 import { env } from "../config/env";
-import { Pool, PoolClient, QueryResult, QueryResultRow } from "pg";
+import { Pool, QueryResult, QueryResultRow } from "pg";
 import { logger } from "../lib/logger";
 
 
